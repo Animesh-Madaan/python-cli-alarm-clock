@@ -25,7 +25,7 @@ A command-line alarm clock for Linux, WSL, macOS, and Windows that runs as a bac
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/python-alarm-clock.git
+git clone https://github.com/Animesh-Madaan/python-cli-alarm-clock.git
 cd python-alarm-clock
 
 python3 -m venv .venv
